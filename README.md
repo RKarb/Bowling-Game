@@ -6,3 +6,5 @@ in order to be an option for children to choose from when seeking a form of ente
 
 The game itself features a scoring system and physics based gameplay, simply put: the player is in a fantasy bowling alley. The existing objects are the bowling ball itself, 
 bowling pins and the bowling alley floor. As previously mentioned the colours of the bowling ball and alley floor can be selected from within a menu prior to pressing play.
+
+![](Bowling Game Demonstration.gif)
